@@ -1,2 +1,2 @@
 # Lab-assignment-whisper-stt_implementation
-ou've learned how to transcribe audio, handle long recordings, and extract timestamps - skills that are valuable in many AI applications.
+You've learned how to transcribe audio, handle long recordings, and extract timestamps - skills that are valuable in many AI applications.
